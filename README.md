@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Chayut's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayut-wann&show_icons=true&theme=tokyonight)
+![Chayut's GitHub stats]()
 
 ---
 
